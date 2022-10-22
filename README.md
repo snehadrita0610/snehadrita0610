@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Hackathons** 
 
-- 💬 Ask me about **paitings,song suggestions**
+- 💬 Ask me about **paintings,song suggestions**
 
 - 📫 How to reach me **sethsnehadrita@gmail.com**
 
