@@ -1,7 +1,7 @@
 ![MasterHead](https://www.hollywoodreporter.com/wp-content/uploads/2016/06/powerpuffgirls.jpg)
 ![@sneha_drita's Holopin board](https://holopin.me/sneha_drita)
 <h1 align="center">Hi 👋, I'm Snehadrita Seth</h1>
-<h3 align="center">A passionate Learner</h3>
+<h3 align="center">A Passionate Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehadrita0610&label=Profile%20views&color=0e75b6&style=flat" alt="snehadrita0610" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Web-Development projects**
 
-- 🤝 I’m looking for help with **Hackathons** 
+- 🤝 I’m looking for help with **Open source projects** 
 
-- 💬 Ask me about **paintings,song suggestions**
+- 💬 Ask me about **paintings,song and movie suggestions**
 
 - 📫 How to reach me **sethsnehadrita@gmail.com**
 
